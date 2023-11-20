@@ -1,7 +1,7 @@
 ### SETTINGS
 FILE_PATH_PDF = '../abecker10.pdf'
 START_PAGE = 7
-END_PAGE = 10 
+END_PAGE = 21
 
 OUT_FILE_PATH = "output"
 
